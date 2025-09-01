@@ -16,7 +16,7 @@ I like building clear, reproducible projects with readable code and short case-s
 > (I’ll pin these below once repos are live.)
 - **Insurance Claim Severity – ML (LightGBM + SHAP)**  
   End-to-end pipeline, 116 categorical features encoded, MAE improved vs baseline.  
-  Repo: _coming soon_ → `insurance-claim-severity-ml`
+  Repo:`insurance-claim-severity`
 
 - **Insurance Claims Analytics – Power BI**  
   Star schema + DAX measures, KPI cards, drill-through & slicers.  
@@ -24,17 +24,20 @@ I like building clear, reproducible projects with readable code and short case-s
 
 - **Airline Operations Database – SQL + ERD**  
   3-NF schema, indexes, stored procedures, analytics queries.  
-  Repo: _coming soon_ → `airline-operations-database-sql`
+  Repo: `FlightAdminSQL`
 
 - **Medical LLM Chatbot – LoRA + FAISS + Gradio**  
   Finetuned Camel-7B, RAG with FAISS, prompt guardrails, sub-2s latency demo.  
   Repo: _coming soon_ → `medical-llm-chatbot-lora-faiss-gradio`
 
-## 🎯 What I’m focusing on now
-- 
-- 
+##  What I’m focusing on now
+- ### Financial Risk Monitoring Dashboard (Power BI)
+Building an interactive dashboard in **Power BI** to track portfolio **returns, volatility, Sharpe ratio, and Value at Risk (VaR)**.  
+Uses **daily stock data, DAX measures, and What-If parameters** so users can explore risk and test portfolio allocations dynamically.
 
-## 📫 Contact
+
+
+##  Contact
 - **Email:** sama.borhani.g@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/sama-borhani/
 
@@ -42,6 +45,6 @@ I like building clear, reproducible projects with readable code and short case-s
 This is a special profile README. Repos to pin once created:
 insurance-claim-severity-ml
 insurance-claims-powerbi-dashboard
-airline-operations-database-sql
+FlightAdminSQL
 medical-llm-chatbot-lora-faiss-gradio
 -->
