@@ -1,7 +1,12 @@
+![Banner](./banner.png)
+
 # Hi, I'm Sama 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sama-borhani/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sama.borhani.g@gmail.com)
 
 **BSc Statistics @ York University** • Data & ML projects in Python • BI dashboards in Power BI • SQL & Data Modeling  
 I like building clear, reproducible projects with readable code and short case-study style READMEs.
+
 
 ---
 
@@ -11,6 +16,12 @@ I like building clear, reproducible projects with readable code and short case-s
 - **LLM/NLP:** Transformers, LoRA/QLoRA, FAISS, Gradio
 - **BI & Viz:** Power BI (Power Query, DAX), Tableau
 - **Other:** Git/GitHub, Jupyter/Colab
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## 📌 Featured Projects
 > (I’ll pin these below once repos are live.)
