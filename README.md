@@ -9,21 +9,24 @@ I like building clear, reproducible projects with readable code and short case-s
 
 
 ---
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-## 🔧 Core Skills
+##  Core Skills
 - **Languages:** Python, R, MATLAB, SQL (OracleSQL)
 - **ML & Data:** scikit-learn, LightGBM, SHAP, pandas, NumPy
 - **LLM/NLP:** Transformers, LoRA/QLoRA, FAISS, Gradio
 - **BI & Viz:** Power BI (Power Query, DAX), Tableau
 - **Other:** Git/GitHub, Jupyter/Colab
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## 📌 Featured Projects
+##  Featured Projects
 > (I’ll pin these below once repos are live.)
 - **Insurance Claim Severity – ML (LightGBM + SHAP)**  
   End-to-end pipeline, 116 categorical features encoded, MAE improved vs baseline.  
