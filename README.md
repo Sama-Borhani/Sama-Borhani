@@ -42,9 +42,9 @@ I like building clear, reproducible projects with readable code and short case-s
   Repo: _coming soon_ → `medical-llm-chatbot-lora-faiss-gradio`
 
 
-- ### Financial Risk Monitoring Dashboard (Power BI)
-Building an interactive dashboard in **Power BI** to track portfolio **returns, volatility, Sharpe ratio, and Value at Risk (VaR)**.  
-Uses **daily stock data, DAX measures** so users can explore risk and test portfolio allocations dynamically.
+- ** Financial Risk Monitoring Dashboard (Power BI)**
+Building an interactive dashboard in **Power BI** to track portfolio returns, volatility, Sharpe ratio, and Value at Risk (VaR).  
+Uses daily stock data, DAX measures** so users can explore risk and test portfolio allocations dynamically.
 
 
 
