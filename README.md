@@ -22,7 +22,7 @@ I like building clear, reproducible projects with readable code and short case-s
 - **Languages:** Python, R, MATLAB, SQL (OracleSQL)
 - **ML & Data:** scikit-learn, LightGBM, SHAP, pandas, NumPy
 - **LLM/NLP:** Transformers, LoRA/QLoRA, FAISS, Gradio
-- **BI & Viz:** Power BI (Power Query, DAX), Tableau
+- **BI & Viz:** Power BI (Power Query, DAX)
 - **Other:** Git/GitHub, Jupyter/Colab
 
 
