@@ -24,7 +24,7 @@ I like building clear, reproducible projects with readable code and short case-s
 - **BI & Viz:** Power BI (Power Query, DAX)
 - **Other:** Git/GitHub, Jupyter/Colab
 
-##Featured Projects
+### Featured Projects
 
 ### **Equity Risk Forecasting with Stochastic Processes**
 *Python • Quantitative Finance • Monte Carlo • Backtesting*
